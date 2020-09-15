@@ -35,11 +35,22 @@
   #exp{
 
     color: white;
-    font-size: 18px;
-    font-style: italic;
+    font-size: 19px;
+    font-style: normal;
+   
 
   }
 
+  #bol{
+
+    color: Black;
+    font-size: 19px;
+    font-style: italic;
+    background-color:rgb(217, 241, 107) 
+
+   
+
+  }
   body {
     background-image: url('https://images.pexels.com/photos/172276/pexels-photo-172276.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     background-repeat: no-repeat;
